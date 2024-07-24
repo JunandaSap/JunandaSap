@@ -29,6 +29,7 @@
 
 ## ⏳ Spend Time
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonnn&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunandaSap&layout=compact&theme=radical)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunandaSap&show_icons=true&theme=radical)
