@@ -1,12 +1,11 @@
 # My GitHub Profile
-## ⏳ Spend Time
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonnn&layout=compact&theme=radical)
 
-## 📈 GitHub Stats
+## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunandaSap&show_icons=true&theme=radical)
+## Top Use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunandaSap&layout=compact&theme=radical)
 
-## 🛠 Skills
+## Absolute Skills
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" style="margin: 5px;">
