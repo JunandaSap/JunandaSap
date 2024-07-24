@@ -1,9 +1,5 @@
 # My GitHub Profile
-
-## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunandaSap&show_icons=true&theme=radical)
-## Top Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunandaSap&layout=compact&theme=radical)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+a+Full-Stack+Developer;I+love+coding+and+learning+new+things)
 
 ## Absolute Skills
 <div style="display: flex; flex-wrap: wrap;">
@@ -26,6 +22,10 @@
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square" alt="Ubuntu" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" alt="Postman" style="margin: 5px;">
 </div>
+
+## Top Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunandaSap&layout=compact&theme=radical)
+
 
 ## 🌐 Languages
 - **Indonesian**
