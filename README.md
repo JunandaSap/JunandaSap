@@ -1,4 +1,4 @@
-# U can call me jon
+# My GitHub Profile
 
 ## 🛠 Skills
 <div style="display: flex; flex-wrap: wrap;">
@@ -33,7 +33,7 @@
 - **Minang** (Learning)
 
 ## ⏳ Spend Time
-![WakaTime Stats](waka_97101091-6b42-4da7-b747-b26a9a48490a)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Junanda_Saputra&layout=compact&theme=radical)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunandaSap&show_icons=true&theme=radical)
