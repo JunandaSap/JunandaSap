@@ -1,6 +1,6 @@
 # My GitHub Profile
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&width=435&lines=My+name+is+Junanda;U+can+call+me+Jon;Enjoy+and+u+can+see+my+code)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonnn&layout=compact&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=&layout=compact&theme=radical)
 
 ## Absolute Skills
 <div style="display: flex; flex-wrap: wrap;">
