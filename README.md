@@ -23,9 +23,9 @@
 </div>
 
 ## 🌐 Languages
-- **Indonesian** (Native)
-- **English** (Intermediate)
-- **Minang** (Learning)
+- **Indonesian**
+- **English** 
+- **Java** 
 
 ## ⏳ Spend Time
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonnn&layout=compact&theme=radical)
