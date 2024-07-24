@@ -1,5 +1,5 @@
 # My GitHub Profile
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+a+Full-Stack+Developer;I+love+coding+and+learning+new+things)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&width=435&lines=My+name+is+Junanda;U+can+call+me+Jon;Enjoy+and+u+can+see+my+code+here)
 
 ## Absolute Skills
 <div style="display: flex; flex-wrap: wrap;">
