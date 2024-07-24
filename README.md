@@ -1,4 +1,10 @@
 # My GitHub Profile
+## ⏳ Spend Time
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonnn&layout=compact&theme=radical)
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunandaSap&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunandaSap&layout=compact&theme=radical)
 
 ## 🛠 Skills
 <div style="display: flex; flex-wrap: wrap;">
@@ -26,13 +32,6 @@
 - **Indonesian**
 - **English** 
 - **Java** 
-
-## ⏳ Spend Time
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonnn&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunandaSap&layout=compact&theme=radical)
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunandaSap&show_icons=true&theme=radical)
 
 ## 💬 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yourusername)
