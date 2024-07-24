@@ -14,14 +14,9 @@
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square" alt="Firebase" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" alt="Figma" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/-Lightning-32CD32?logo=lightning&logoColor=white&style=flat-square" alt="Lightning" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square" alt="Windows" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square" alt="Ubuntu" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" alt="Postman" style="margin: 5px;">
